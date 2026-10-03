@@ -50,7 +50,7 @@ export const SOCIALS = [
         name: "Facebook",
         url: "https://www.facebook.com/vicbox.dev",
         icon: "facebook-fill",
-        show: false
+        show: true
     },
     {
         name: "Instagram",
@@ -68,7 +68,7 @@ export const SOCIALS = [
         name: "TikTok",
         url: "https://tiktok.com/vicbox.dev",
         icon: "tik-fill",
-        show: false
+        show: true
     },
     {
         name: "GitHub",
